@@ -697,7 +697,7 @@ async function starts() {
 					break
                 case 'donasi':
 				case 'donate':
-					client.sendMessage(from, 'Mau donasi ya om?✨\n\n اتَّقوا النَّارَ ولو بشقِّ تمرةٍ ، فمن لم يجِدْ فبكلمةٍ طيِّبةٍ\n_“jauhilah api neraka, walau hanya dengan bersedekah sebiji kurma (sedikit). Jika kamu tidak punya, maka bisa dengan kalimah thayyibah” [HR. Bukhari 6539, Muslim 1016]_\n\n*Pulsa Indosat :* _0896-5547-8810_\n*Dana :* _0896-5547-8810_\n*Saweria :* _https://saweria.co/agung1\n*Gopay :* _belum tersedia_', text, { quoted: mek })
+					client.sendMessage(from, 'Mau donasi ya om?✨\n\n اتَّقوا النَّارَ ولو بشقِّ تمرةٍ ، فمن لم يجِدْ فبكلمةٍ طيِّبةٍ\n_“jauhilah api neraka, walau hanya dengan bersedekah sebiji kurma (sedikit). Jika kamu tidak punya, maka bisa dengan kalimah thayyibah” [HR. Bukhari 6539, Muslim 1016]_\n\n*Pulsa Indosat :* _0821-9303-0283_\n*Dana :* _0821-9303-0283_\n*Saweria :* _https://saweria.co/rbssindo\n*Gopay :* _belum tersedia_', text, { quoted: mek })
 					break
                 case 'tes':
                    client.sendMessage(from, 'ok', text, {quoted: mek})
