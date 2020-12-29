@@ -1,6 +1,6 @@
 const help = (prefix) => { 
 	return `                 
-┏━━━°❀ ❬ OWNER CIMMAND ❭ ❀°━━━┓
+┏━━━°❀ ❬ OWNER COMMAND ❭ ❀°━━━┓
 ┃
 ┏❉ *${prefix}bc*
 ┣❉ *${prefix}block*
@@ -15,8 +15,8 @@ const help = (prefix) => {
 ┣━━━°❀ ❬ DONASI | BESTFREND ❭ ❀°━━━⊱
 ┃
 ┣➥ *${prefix}donasi*
-┣➥ *${prefix}Thanks To #Alfa📣*
-┣➥ *${prefix}Support Bot XPTN*
+┣➥ *${prefix}Thanks To #RibasYT📣*
+┣➥ *${prefix}Support Bot Ribas*
 ┣➥ *${prefix}Web Api : xptnbotapi.herokuapp.com*
 ┃
 ┣━━━°❀ ❬ UPDATE COMMAND ❭ ❀°━━━⊱
@@ -96,7 +96,7 @@ const help = (prefix) => {
 ┣➥ *${prefix}url2img*
 ┃
 ┣━━━━━━━━━━━━━━━━━━━━
-┃ ${prefix}*Follow IG* ~_xptn~
+┃ ${prefix}*Subscribe* ~RibasYT~
 ┗━━━━━━━━━━━━━━━━━━━━`
 }
 exports.help = help
